@@ -1,0 +1,4 @@
+let m1 = Math.floor(Math.random() * 10);
+console.log(m1);
+let m2 = Math.floor(Math.random() * 10);
+console.log(m2);
